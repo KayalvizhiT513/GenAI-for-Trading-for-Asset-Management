@@ -1,3 +1,2 @@
 # projectb's README
-# LearnGit
-# LearnGit
+LearnGit
