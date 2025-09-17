@@ -1,2 +1,2 @@
-# projectb's README
+# GenAI-for-Trading-for-Asset-Management
 LearnGit
